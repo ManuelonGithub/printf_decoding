@@ -4,3 +4,5 @@ Example companion library to (s)printf_encoding which will process encoded print
 
 It follows the interface contract laid out in the [sprintf encoding repo](https://github.com/ManuelonGithub/sprintf_encoding#how-to-decode---interface-contract)
 
+MIT License, 
+Copyright (c) 2023 ManuelonGithub
